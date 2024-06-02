@@ -1,6 +1,6 @@
 <div align="center">
   <h2>WowGames</h2>
-  <p>Enciclopedia Colaborativa de Juegos.</p>
+  <p>Enciclopedia Colaborativa de Juegos.</p> 
 </div>
 
 ## Requisitos previos
